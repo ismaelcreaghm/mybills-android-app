@@ -21,14 +21,6 @@ MyBills+ is a modern Android application designed to help users manage their bil
 - DataStore
 - Google Play Billing
 
-##  Screenshots
-
-(Add your screenshots here)
-
-Example:
-
-![App Screenshot](screenshots/home.png)
-
 ##  Download
 
  Google Play:
